@@ -1,4 +1,8 @@
 {
-  "1000Likes":{"Reward":1000},
-  "10000Likes":{"Reward":1000}
+  "1000Likes":{
+    "Reward":1000
+  },
+  "10000Likes":{
+    "Reward":1000
+  }
 }
