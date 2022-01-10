@@ -1,5 +1,8 @@
 {
   "GroupStatus":{
     "Reward":10000
+  },
+  "ImFromTwitter":{
+    "Reward":7500
   }
 }
