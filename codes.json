@@ -1,8 +1,5 @@
 {
-  "1000Likes":{
-    "Reward":1000
-  },
-  "10000Likes":{
-    "Reward":1000
+  "GroupStatus":{
+    "Reward":10000
   }
 }
