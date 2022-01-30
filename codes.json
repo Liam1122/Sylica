@@ -7,5 +7,11 @@
   },
   "RoadTo100K":{
     "Reward":9100
-  }
+  },
+  "Capi":{
+    "Reward":15000
+  },
+  "Manu":{
+    "Reward":15000
+  },
 }
